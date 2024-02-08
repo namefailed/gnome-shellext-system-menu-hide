@@ -1,10 +1,10 @@
 {
-  "name": "Hide Lock item in System Menu",
-  "description": "Hides the \"Lock\" option from the system menu dropdown in the top right.",
-  "uuid": "gnome-shellext-hide-lock@adyrosebrigg",
-  "url": "https://github.com/adyrosebrigg/gnome-shellext-hide-lock",
+  "name": "Hide Lock & Settings items in System Menu",
+  "description": "Hides the \"Lock\" & \"Settings\" options from the system menu dropdown in the top right.",
+  "uuid": "gnome-shellext-system-menu-hide-items@namefailed",
+  "url": "https://github.com/namefailed/gnome-shellext-system-menu-hide-items/",
   "shell-version": [
     "42"
   ],
-  "version": 2
+  "version": 3
 }
